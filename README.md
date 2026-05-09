@@ -150,6 +150,7 @@ This project methodology aligns with:
 
 ---
 # Related project
+military-training-analytics
 
 ##  Author
 
