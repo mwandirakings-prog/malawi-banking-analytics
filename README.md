@@ -150,7 +150,7 @@ This project methodology aligns with:
 
 ---
 # Related project
-military-training-analytics
+https://github.com/mwandirakings-prog/military-training-analytics
 
 ##  Author
 
